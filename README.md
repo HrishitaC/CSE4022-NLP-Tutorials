@@ -9,4 +9,7 @@ Day 5: Language Models (Spacy)
 Day 6: Regex Parsing  
 
 # Group Task  
-Assessing the works of a Nat Geo editor using NLP tools - Reading Index
+Assessing the works of a Nat Geo editor using NLP tools - Reading Index  
+
+# Project  
+Mental Health Sentiment Analysis
